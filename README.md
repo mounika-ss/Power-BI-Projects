@@ -4,7 +4,7 @@ Welcome to my collection of data visualization projects created using **Power BI
 
 ## 📁 Projects Included
 
-### 1. [Road Accident Analysis](./road-accident-analysis)
+### 1. [Road Accident Analysis](./Road%20Accident%20Analysis)
 - A detailed dashboard analyzing trends in road accidents.
 - Features: accident causes, time distribution, region-wise stats, and more.
 - Tools: Power BI, CSV data, Power Query.
