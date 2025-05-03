@@ -16,8 +16,8 @@ This project presents a data visualization dashboard analyzing road accident tre
 
 ## 📂 Files Included
 
-- `Road_Accident_Analysis.pbix` — The main Power BI report file
-- `Screenshots/` — Images of the dashboard for quick view
+- `RA project power bi.pbix` — The main Power BI report file
+- `final dashboard screeshot/` — Images of the dashboard for quick view
 
 ## 🧰 Tools Used
 
