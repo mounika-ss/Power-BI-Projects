@@ -7,7 +7,6 @@ This project presents a data visualization dashboard analyzing road accident tre
 - Total number of accidents
 - Accident distribution by:
   - State/Region
-  - Age group and gender
   - Vehicle type
 - Key causes of accidents
 - Year-wise and month-wise trends
